@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining.practice2
+package com.asivquark.beginnerspringboottraining.practice2
 
 class Training(
     val name: String,
