@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining.configuration
+package com.asivquark.beginnerspringboottraining.configuration
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 import org.springframework.boot.context.properties.ConstructorBinding

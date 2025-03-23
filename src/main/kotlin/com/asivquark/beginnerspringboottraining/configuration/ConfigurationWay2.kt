@@ -1,6 +1,6 @@
-package com.cccc.beginnerspringboottraining.configuration
+package com.asivquark.beginnerspringboottraining.configuration
 
-import com.cccc.beginnerspringboottraining.practice2.Training
+import com.asivquark.beginnerspringboottraining.practice2.Training
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
