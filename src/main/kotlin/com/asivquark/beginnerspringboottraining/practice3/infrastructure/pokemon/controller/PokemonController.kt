@@ -1,8 +1,8 @@
-package com.cccc.beginnerspringboottraining.practice3.infrastructure.pokemon.controller
+package com.asivquark.beginnerspringboottraining.practice3.infrastructure.pokemon.controller
 
-import com.cccc.beginnerspringboottraining.practice3.domain.pokemon.model.Pokemon
-import com.cccc.beginnerspringboottraining.practice3.domain.pokemon.repository.PokemonRepository
-import com.cccc.beginnerspringboottraining.practice3.infrastructure.pokemon.mapper.PokemonMapper
+import com.asivquark.beginnerspringboottraining.practice3.domain.pokemon.model.Pokemon
+import com.asivquark.beginnerspringboottraining.practice3.domain.pokemon.repository.PokemonRepository
+import com.asivquark.beginnerspringboottraining.practice3.infrastructure.pokemon.mapper.PokemonMapper
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.HttpStatus.CREATED
 import org.springframework.http.MediaType.APPLICATION_JSON_VALUE

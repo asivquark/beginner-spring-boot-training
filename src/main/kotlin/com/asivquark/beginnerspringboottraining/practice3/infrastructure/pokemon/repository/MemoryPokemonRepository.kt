@@ -1,8 +1,8 @@
-package com.cccc.beginnerspringboottraining.practice3.infrastructure.pokemon.repository
+package com.asivquark.beginnerspringboottraining.practice3.infrastructure.pokemon.repository
 
-import com.cccc.beginnerspringboottraining.practice3.domain.pokemon.model.Pokemon
-import com.cccc.beginnerspringboottraining.practice3.domain.pokemon.repository.PokemonRepository
-import com.cccc.beginnerspringboottraining.practice3.infrastructure.pokemon.controller.PokemonNotFoundException
+import com.asivquark.beginnerspringboottraining.practice3.domain.pokemon.model.Pokemon
+import com.asivquark.beginnerspringboottraining.practice3.domain.pokemon.repository.PokemonRepository
+import com.asivquark.beginnerspringboottraining.practice3.infrastructure.pokemon.controller.PokemonNotFoundException
 
 class MemoryPokemonRepository : PokemonRepository {
     
