@@ -1,6 +1,6 @@
-package com.cccc.beginnerspringboottraining
+package com.asivquark.beginnerspringboottraining
 
-import com.cccc.beginnerspringboottraining.practice1.User
+import com.asivquark.beginnerspringboottraining.practice1.User
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

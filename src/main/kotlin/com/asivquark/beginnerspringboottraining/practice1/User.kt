@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining.practice1
+package com.asivquark.beginnerspringboottraining.practice1
 
 
 class User(

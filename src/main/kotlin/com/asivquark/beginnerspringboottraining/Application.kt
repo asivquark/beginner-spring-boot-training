@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining
+package com.asivquark.beginnerspringboottraining
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
