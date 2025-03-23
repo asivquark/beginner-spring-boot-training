@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining
+package com.asivquark.beginnerspringboottraining
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
