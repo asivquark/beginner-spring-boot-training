@@ -1,6 +1,6 @@
-package com.cccc.beginnerspringboottraining.practice3.domain.pokemon.repository
+package com.asivquark.beginnerspringboottraining.practice3.domain.pokemon.repository
 
-import com.cccc.beginnerspringboottraining.practice3.domain.pokemon.model.Pokemon
+import com.asivquark.beginnerspringboottraining.practice3.domain.pokemon.model.Pokemon
 
 interface PokemonRepository {
     
