@@ -1,13 +1,13 @@
-package com.cccc.beginnerspringboottraining.configuration
+package com.asivquark.beginnerspringboottraining.configuration
 
-import com.cccc.beginnerspringboottraining.practice1.User
-import com.cccc.beginnerspringboottraining.practice1.User.Email
-import com.cccc.beginnerspringboottraining.practice1.User.FullName
-import com.cccc.beginnerspringboottraining.practice1.User.FullName.FirstName
-import com.cccc.beginnerspringboottraining.practice1.User.FullName.LastName
-import com.cccc.beginnerspringboottraining.practice1.User.Phone
-import com.cccc.beginnerspringboottraining.practice1.User.Phone.PhoneNumber
-import com.cccc.beginnerspringboottraining.practice1.User.Phone.PrefixCountryCode
+import com.asivquark.beginnerspringboottraining.practice1.User
+import com.asivquark.beginnerspringboottraining.practice1.User.Email
+import com.asivquark.beginnerspringboottraining.practice1.User.FullName
+import com.asivquark.beginnerspringboottraining.practice1.User.FullName.FirstName
+import com.asivquark.beginnerspringboottraining.practice1.User.FullName.LastName
+import com.asivquark.beginnerspringboottraining.practice1.User.Phone
+import com.asivquark.beginnerspringboottraining.practice1.User.Phone.PhoneNumber
+import com.asivquark.beginnerspringboottraining.practice1.User.Phone.PrefixCountryCode
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 
